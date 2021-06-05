@@ -1,0 +1,4 @@
+HOST=localhost
+DATABASE=pasos
+USER=root
+PASSWORD=
